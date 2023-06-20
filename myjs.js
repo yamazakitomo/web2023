@@ -1,1 +1,1 @@
-alart
+alert
