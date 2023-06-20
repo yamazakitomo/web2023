@@ -1,1 +1,1 @@
-alert('Hello, Tomohito!');
+alart('Hello, Tomohito!');
